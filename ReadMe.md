@@ -7,8 +7,10 @@ This is a Flask-based educational web app that dynamically visualizes step-by-st
 
 [![Live Demo](https://img.shields.io/badge/Live_App-Click_Here-green)](https://jagdevsinghdosanjh.pythonanywhere.com)
 
-> _Hosted on [PythonAnywhere](https://www.pythonanywhere.com)_  
+> _Hosted on [PythonAnywhere]
+(https://www.pythonanywhere.com)_  
 > _**Creator:** Jagdev Singh Dosanjh
+
 https://www.dosanjhpubsasr.org
 
 https://www.physicsbyjsd.org
