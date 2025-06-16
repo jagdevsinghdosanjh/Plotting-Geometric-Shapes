@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Triangle Congruence Steps</title>
+  </head>
+  <body>
+    <h1>Visualizing Triangle Congruence</h1>
+    {% for step in steps %}
+      <div>
+        <img src="{{ url_for('static_files', filename=step) }}" width="400" style="display: block; margin: 0 auto;" alt="Step Image" />
+        <h3 align=center>{{ step }}</h3
+      </div>
+    {% endfor %}
+  </body>
+</html>
